@@ -28,7 +28,7 @@ Each lesson explains the relevant concepts and provides examples of these concep
 ## Usage
 
 To use these notes, you can clone the files from this repository to your local machine using the `git clone` command:
-git clone https://github.com/yourUsername/Image-Processing-Basics.git
+git clone https://github.com/ranuelyn/Image-Processing-Basics.git
 
 You can follow along with the notes and try out the examples yourself. By completing the exercises at the end of each lesson, you can reinforce the topics covered.
 
